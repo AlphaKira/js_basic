@@ -28,7 +28,7 @@ let str2 = `hello`;
 alert(`${str} World!`) // шаблоная строка позволяет встраивает значение в шаблон 
 alert(`2 + 2 = ${2+2}`) // шаблоная строка позволяет встраивает значение в шаблон 
 
-// Boolean будев тип данных (true и false) правда и ложь
+// Boolean тип данных (true и false) правда и ложь
 let fieldChecked = true;
 let isGreater = 4 > 1;
 alert(isGreater) 
