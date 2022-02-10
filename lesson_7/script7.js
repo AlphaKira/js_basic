@@ -7,6 +7,7 @@ let access;
 
 let a1 = access ?? "not inicialized";
 access = age > 18 ? "full": "child" // тернарное выражение, если нам нужно вернуть какой-то значение по условию
+// первое которое возвращает true , а второе false
 let a2 = access ?? "not inicialized";
 
 // присваивает значение access , если оно не null или андевайд
