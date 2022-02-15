@@ -58,7 +58,7 @@ let obj = {
 
 alert(`typeof undefined = ${typeof undefined}`)
 alert(`typeof 0 = ${typeof 0}`)
-alert(`typeof Nan = ${typeof Nan}`)
+alert(`typeof NaN = ${typeof NaN}`)
 alert(`typeof 10n = ${typeof 10n}`)
 alert(`typeof true = ${typeof true}`)
 alert(`typeof "text" = ${typeof "text"}`)
