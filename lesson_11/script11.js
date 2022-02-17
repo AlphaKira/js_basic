@@ -84,3 +84,5 @@ for (let subArr of matrix){
         console.log(val)
     }
 };
+
+// домашнее задание
